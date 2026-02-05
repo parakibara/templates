@@ -1,0 +1,18 @@
+/* Change the values here to adjust the colors without touching the CSS */
+
+:root {
+    /* Images */
+    --bgimage: linear-gradient(180deg, #3c2b2b, #141414);
+
+    /* Fonts */
+    --bodyfont: Atkinsons, sans-serif;
+    --headerfont: Premios, serif;
+
+    /* Main colors */
+    --bgcolor: #292929;
+    --textcolor: #fff;
+    --accentcolor1: #ccc;
+    --accentcolor2: #973b3b;
+    --accentcolor3: #422323;
+    --accentcolor4: #1f1e1e;
+}
