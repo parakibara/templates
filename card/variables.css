@@ -1,0 +1,12 @@
+:root {
+    /* Images */
+    --bgimage: url(), linear-gradient();
+
+    /* Main colors */
+    --bgcolor: #080808;
+    --textcolor: #fff;
+    --accentcolor1: #ccc;
+    --accentcolor2: #4f3243;
+    --accentcolor3: #616161;
+    --accentcolor4: #151414;
+}
