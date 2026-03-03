@@ -230,8 +230,7 @@ li:not(:last-child) {
 .items {
     display: flex;
     flex-direction: column;
-    width: 290px;
-    height: 300px;
+    width: 100%;
     justify-content: center;
     align-items: center;
 }
