@@ -1,0 +1,19 @@
+/* Change the values here to adjust values without touching the CSS */
+
+:root {
+    /* Images */
+    --headerimage: url('https://placehold.co/800x150');
+    --bgimage: ;
+
+    /* Fonts */
+    --bodyfont: Atkinsons, sans-serif;
+    --headerfont: Premios, serif;
+
+    /* Main colors */
+    --accentcolor1: #989898;
+    --accentcolor2: #4a4a4a;
+    --accentcolor3: #9f9a91;
+    --accentcolor4: #ffffff;
+    --accentcolor5: #e6e6e6;
+    --accentcolor6: #a37070;
+}
