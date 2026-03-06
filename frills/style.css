@@ -54,6 +54,7 @@ body {
 @media (max-width: 1024px) {
     .container {
         width: calc(100% - 56px);
+        grid-template-columns: 1fr 1fr 1fr;
         grid-template-rows: 150px auto auto 1fr auto;
         grid-template-areas:
             "header header header"
@@ -94,7 +95,9 @@ body {
     font-size: 5em;
     margin-bottom: -20px;
     margin-right: 5px;
+    text-align: right;
     color: var(--accentcolor4);
+    text-align: right;
     z-index: 1;
     pointer-events: none;
     text-shadow: 
